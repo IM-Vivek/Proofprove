@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Proofprove/static/css/main.a0fd3e95.css",
+    "main.js": "/Proofprove/static/js/main.74fda10e.js",
+    "index.html": "/Proofprove/index.html",
+    "main.a0fd3e95.css.map": "/Proofprove/static/css/main.a0fd3e95.css.map",
+    "main.74fda10e.js.map": "/Proofprove/static/js/main.74fda10e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0fd3e95.css",
+    "static/js/main.74fda10e.js"
+  ]
+}
